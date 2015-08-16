@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "Yemasthui";
+    var fork = "Alphadawg404";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -94,7 +94,7 @@
       filterChat: true,
       etaRestriction: false,
       welcome: true,
-      opLink: null,
+      opLink: https://docs.google.com/document/d/1N-Kv-_gFR28i8CjQHP-P4JE0WZZJP6aYUtnwYgnlm84/edit?usp=sharing,
       rulesLink: null,
       themeLink: null,
       fbLink: null,
